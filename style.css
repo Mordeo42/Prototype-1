@@ -1,0 +1,44 @@
+body {
+    font-family: 'Georgia', serif; 
+    line-height: 1.6; 
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #ececec;
+}
+
+header, main, footer {
+    max-width: 800px; 
+    margin: 0 auto;   
+    padding: 20px;
+}
+
+img {
+    width: 100%;      
+    height: auto;     
+    border-radius: 8px; 
+    margin-bottom: 20px;
+}
+
+header {
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #2c3e50;
+    font-size: 2.5em;
+}
+
+.subtitle {
+    color: #777;
+    font-style: italic;
+}
+
+.small-image {
+    width: 150px; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
+}
